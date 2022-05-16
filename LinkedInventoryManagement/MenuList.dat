@@ -1,0 +1,10 @@
+Add User, true, AddUserCommand
+Remove User, true, RemoveUserCommand
+Change Password, true, ChangePasswordCommand
+Add New Product, false, AddProductCommand
+Update Product Information, false, UpdateProductCommand
+Add User, true, AddUserCommand
+Delete Product, false, RemoveProductCommand
+Display Product Information, false, DisplayProductCommand
+Display Product Information, false, DisplayProductCommand
+Display Inventory, false, DisplayInventoryCommand

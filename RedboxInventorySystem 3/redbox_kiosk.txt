@@ -1,0 +1,7 @@
+Title                    Available  Rented  
+Avengers: End Game               0       1       
+Inception                        1       3       
+Kingdom Under Heaven             3       3       
+Spartacus                        1       5       
+The Departed                     0       1       
+The Lion King                    1       0       
